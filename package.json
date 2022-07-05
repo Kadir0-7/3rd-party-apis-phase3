@@ -1,0 +1,15 @@
+{
+  "name": "3rd-party-apis-phase3",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "prettier": "2.7.1",
+    "vite": "^2.9.9"
+  }
+}
